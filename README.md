@@ -1,5 +1,5 @@
 # SF_crime
-A geospatial visualisation of San Fransisco Crime data
+A geospatial visualisation of San Francisco Crime data
 
 Interactive notebook that lets the user select the categories of the crimes they want to visualise on the geospatially on the map of San Francisco.
 Download required.
