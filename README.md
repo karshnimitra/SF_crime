@@ -1,7 +1,7 @@
 # SF_crime
 A geospatial visualisation of San Fransisco Crime data
 
-Interactive notebook that lets the user select the categories of the crimes they want to visualise on the map.
+Interactive notebook that lets the user select the categories of the crimes they want to visualise on the geospatially on the map of San Francisco.
 Download required.
 
 Extension of the Data Visualisation Course code by IBM and Coursera.
